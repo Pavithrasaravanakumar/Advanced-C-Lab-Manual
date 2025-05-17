@@ -1,5 +1,4 @@
-
-
+## MODULE 12
 ## EXP NO 26 PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
 ## Aim:
 To write a C program to display stack elements using linked list.
